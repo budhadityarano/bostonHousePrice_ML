@@ -18,3 +18,32 @@ Activate the new virtual
 conda activate venv/
 ```
 
+Work arround: if you are using a apple silicon mac install sklearn installation may give error. Directly install from anaconda navigator to the virtual environment 'venv'.
+
+
+git CLI configuration
+```
+git config --global user.name
+
+git config --global user.email
+```
+
+```
+git status
+
+git add
+
+git commit -m " This commit is from VS Code"
+
+git push origin main
+```
+
+
+
+
+
+
+
+
+
+
